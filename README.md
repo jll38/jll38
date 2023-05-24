@@ -2,7 +2,7 @@
 
 ## Hello there! 👋
 
-Welcome to my GitHub profile! I'm Julian Lechner, a front end developer that enjoys crafting beautiful and responsive websites to create delightful web experiences.
+Welcome to my GitHub profile! I'm Julian Lechner, a front-end developer that enjoys crafting beautiful and responsive websites to create delightful web experiences.
 
 ## Skills
 
