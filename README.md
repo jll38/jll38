@@ -36,6 +36,6 @@ Dive into my [mystical portfolio](http://jlechner.com) or peruse my repositories
 
 ## My Contributions 📈
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jll38&show_icons=true&count_private=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jll38&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
 
 ---
