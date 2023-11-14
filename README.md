@@ -4,6 +4,7 @@
 ### Hello there! 👋
 
 I'm an undergraduate student at NJIT ('24), React Developer Intern @ SkyIT Services, and Project Manager Intern with Eco-Enterprise.
+Check out my website [here](http://jlechner.com)
 
 ### Connect with me:
 
