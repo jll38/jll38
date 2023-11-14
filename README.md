@@ -1,10 +1,18 @@
-# Julian Lechner - Frontend Developer
+<h1 align="center">Julian Lechner<br/>Frontend Developer</h1>
 
-## Hello there! 👋
 
-Welcome to my GitHub Profile! Here is where I showcase all of my projects for the world to see!
+### Hello there! 👋
 
-## Things I code with 🛠️
+I'm an undergraduate student at NJIT ('24), React Developer Intern @ SkyIT Services, and Project Manager Intern with Eco-Enterprise.
+
+### Connect with me:
+
+
+- 📧 **Email:** [jll38@njit.edu](mailto:jll38@njit.edu)
+- 🔗 **LinkedIn:** [Julian Lechner](https://www.linkedin.com/in/julianllechner/)
+- 💬 **Discord:** JLucher#4957
+
+## Languages & Tools
 
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -20,17 +28,6 @@ Welcome to my GitHub Profile! Here is where I showcase all of my projects for th
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-
-## Portfolio of Wonders 📚
-
-Dive into my [mystical portfolio](http://jlechner.com) or peruse my repositories below to uncover the treasures I've crafted.
-
-## Forge Connections 🔗
-
-
-- 📧 **Email:** [jll38@njit.edu](mailto:jll38@njit.edu)
-- 🔗 **LinkedIn:** [Julian Lechner](https://www.linkedin.com/in/julianllechner/)
-- 💬 **Discord:** JLucher#4957
 
 
 
