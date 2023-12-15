@@ -6,6 +6,8 @@
 I'm an undergraduate student at NJIT ('24), React Developer Intern @ SkyIT Services, and Project Manager Intern with Eco-Enterprise.
 Check out my [website](http://jlechner.com)
 
+I'm Currently Working on
+- [TinyClicks.co](https://github.com/jll38/url-shortener)
 ### Connect with me:
 
 
