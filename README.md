@@ -8,7 +8,7 @@ Web Developer
 I'm an undergraduate student at NJIT ('24) 
 <br/>Previously: 
 <br/>- React Developer Intern @ SkyIT Services 
-<br/>- Project Manager Intern with Eco-Enterprise.
+<br/>- Project Manager Intern with Eco-Enterprise
 
 * 🌍  I'm based in New York City Metropolitan Area
 * 🖥️  See my portfolio at [JLechner.com](http://jlechner.com)
