@@ -1,11 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-My name is Julian Lechner
+<br/>My name is Julian Lechner
 ======================================================================================================================================
 
 Web Developer
 -------------
 
-I'm an undergraduate student at NJIT ('24) Previously: - React Developer Intern @ SkyIT Services - Project Manager Intern with Eco-Enterprise.
+I'm an undergraduate student at NJIT ('24) 
+<br/>Previously: 
+<br/>- React Developer Intern @ SkyIT Services 
+<br/>- Project Manager Intern with Eco-Enterprise.
 
 * 🌍  I'm based in New York City Metropolitan Area
 * 🖥️  See my portfolio at [JLechner.com](http://jlechner.com)
