@@ -13,7 +13,7 @@ I'm an undergraduate student at NJIT ('24)
 * 🌍  I'm based in New York City Metropolitan Area
 * 🖥️  See my portfolio at [JLechner.com](http://jlechner.com)
 * ✉️  You can contact me at [jll38@njit.edu](mailto:jll38@njit.edu)
-* 🚀  I'm currently working on [TinyClicks.co](http://tinyclicks.co)
+* 🚀  I'm currently working on [TinyClicks.co](http://tinyclicks.co) & [Blackjack](https://github.com/jll38/blackjack-primitive)
 * ⚡  Looking for work!
 
 ### Skills
