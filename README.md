@@ -2,13 +2,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br/>My name is Julian Lechner
 ======================================================================================================================================
 
-Web Developer
+Full Stack Developer
 -------------
 
-I'm an undergraduate student at NJIT ('24) 
+New Jersey Institute of Technology Graduate
+B.S Information Technology; Minor Mobile & Web
+
+Full Stack Developer @ Eco-Enterprise
 <br/>Previously: 
 <br/>- React Developer Intern @ SkyIT Services 
-<br/>- Project Manager Intern with Eco-Enterprise
+
 
 * 🌍  I'm based in New York City Metropolitan Area
 * 🖥️  See my portfolio at [JLechner.com](http://jlechner.com)
