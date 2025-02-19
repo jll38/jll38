@@ -10,7 +10,7 @@ B.S Information Technology; Minor Mobile & Web
 
 Full Stack Developer @ SportsMainFrame
 <br/>Previously: 
-<br/> Full Stack Developer @ NagyVentures
+<br/>- Full Stack Developer @ NagyVentures
 <br/>- React Developer Intern @ SkyIT Services 
 
 
