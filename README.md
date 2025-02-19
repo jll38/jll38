@@ -8,15 +8,15 @@ Full Stack Developer
 New Jersey Institute of Technology Graduate
 B.S Information Technology; Minor Mobile & Web
 
-Full Stack Developer @ Eco-Enterprise
+Full Stack Developer @ SportsMainFrame
 <br/>Previously: 
+<br/> Full Stack Developer @ NagyVentures
 <br/>- React Developer Intern @ SkyIT Services 
 
 
 * 🌍  I'm based in New York City Metropolitan Area
 * 🖥️  See my portfolio at [JLechner.com](http://jlechner.com)
 * ✉️  You can contact me at [julian@jlechner.com](mailto:julian@jlechner.com)
-* 🚀  I'm currently working on [TinyClicks.co](http://tinyclicks.co) & [Blackjack](https://github.com/jll38/blackjack-primitive)
 * ⚡  Looking for work!
 
 ### Skills
