@@ -14,10 +14,9 @@ Full Stack Developer @ SportsMainFrame
 <br/>- React Developer Intern @ SkyIT Services 
 
 
-* 🌍  I'm based in New York City Metropolitan Area
+* 🌍  I'm based in NYC/NJ
 * 🖥️  See my portfolio at [JLechner.com](http://jlechner.com)
 * ✉️  You can contact me at [julian@jlechner.com](mailto:julian@jlechner.com)
-* ⚡  Looking for work!
 
 ### Skills
 
